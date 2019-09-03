@@ -22,6 +22,9 @@ python main.py
 
 ## Result
 
+* orange : gail
+* blue : ppo
+
 <div align="center">
   <img src="source/ent.png" width="49%" height='300'>
   <img src="source/kl.png" width="50%" height='300'>
